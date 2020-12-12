@@ -1,0 +1,17 @@
+//// create directory structure
+/// create a npm project and install all dependiences
+dependiences
+1.express
+2.ejs express-ejs-layouts
+3. dev dependiences
+4. nodemon
+create Express Sever - create a server.js file
+create home page using html and css
+include tailwind css
+create cart page
+1.order summary section
+2.empty cart section
+create order controler and link in server.js
+create order view with table for customer and admin
+create orders single page with status
+craete login page with route
